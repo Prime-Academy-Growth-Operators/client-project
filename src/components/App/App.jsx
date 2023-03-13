@@ -77,7 +77,7 @@ function App() {
           <ProtectedRoute
             // logged in shows ClientOverview else shows LoginPage
             exact
-            path="/client-overview/:id"
+            path="/client-overview/:clieid"
           >
             {/* <ClientOverview /> */}
           </ProtectedRoute>

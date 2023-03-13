@@ -20,7 +20,7 @@ function AllClients() {
             <th scope="col">Engagement Start</th>
             <th scope="col">Status</th>
             <th scope="col">Operators</th>
-            <th scope="col">Archive</th>
+            <th scope="col">See Overview</th>
             <th scope="col">See Details</th>
             <th scope="col">Edit</th>
             <th scope="col">Delete</th>
